@@ -1,4 +1,4 @@
-A reverse social media app coded by two high school students for the Congressional App Challenge
+A reverse social media app coded by two high school students for the Presidential AI Challenge
 
 ## Inspiration
 
